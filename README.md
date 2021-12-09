@@ -4,7 +4,7 @@
 
 This is an exercise to practice testing in JavaScript.
 
-![screenshot](https://user-images.githubusercontent.com/73128809/144714616-ef209345-3532-4e86-9397-03a51d2b8f1f.png)
+![screenshot](https://user-images.githubusercontent.com/73128809/145493539-a4f26b2f-dfae-473d-aaea-5918c5de3575.png)
 
 ## Built With
 
