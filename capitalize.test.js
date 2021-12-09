@@ -1,6 +1,5 @@
-const {capitalize} = require('./capitalize');
+const { capitalize } = require('./capitalize');
 
-describe('Capitalize Text', () =>{
-    test('Change (ivan) to (Ivan)', () => 
-    expect(capitalize('ivan')).toBe('Ivan'))
+describe('Capitalize Text', () => {
+  test('Change (ivan) to (Ivan)', () => expect(capitalize('ivan')).toBe('Ivan'));
 });
